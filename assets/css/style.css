@@ -1,0 +1,6 @@
+#name_error, #email_error, #subject_error{
+    color: red;
+}
+#name_valid, #email_valid{
+    color: green;
+}
